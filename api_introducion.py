@@ -10,3 +10,6 @@
 #1. Endpoints: these are the URLs that you use to interact with the API
 #2. Requests: Data sent to to the api to request info or perform actions
 #3. Responses: data sent back from the api
+
+api = "hello world"
+print(api) 
